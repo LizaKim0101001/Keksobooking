@@ -1,2 +1,2 @@
 # Keksobooking
- training progect on JS
+ Training project on JS
